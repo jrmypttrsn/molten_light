@@ -25,6 +25,12 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use ActiveModel has_secure_password
 gem 'bcrypt'
 
+# Use faker to make sample users with semi-realistic names and email addresses
+gem 'faker'
+
+# Use for pagination
+gem 'will_paginate',           '3.0.7'
+gem 'bootstrap-will_paginate', '0.0.10'
 # Use Unicorn as the app server
 # gem 'unicorn'
 
