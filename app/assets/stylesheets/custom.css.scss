@@ -91,11 +91,11 @@ p {
 /* footer */
 
 footer {
-	position: absolute;
-	bottom: 0;
+	/*position: absolute;*/
+	/*bottom: 0;*/
 	width: 100%;
   height: 60px;
-  background-color: rgba(73, 73, 73, 0.1);
+  background: none;
 }
 
 footer a {
@@ -244,4 +244,18 @@ a hover {
     padding: 10px 0;
     border-bottom: 1px solid $gray-lighter;
   }
+}
+
+/* Error page */
+error {
+  background: url('bg-image2.png');
+}
+
+#wrap {
+  min-height: 100%;
+  height: auto;
+  /* Negative indent footer by its height */
+  margin: 0 auto -60px;
+  /* Pad bottom by footer height */
+  padding: 0 0 60px;
 }
