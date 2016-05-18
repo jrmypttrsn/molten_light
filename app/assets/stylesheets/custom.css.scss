@@ -16,10 +16,15 @@ $gray-medium-light: #eaeaea;
 
 body {
   padding-top: 60px;
-  background: url('bg-image2.png');
   font-family: 'IM Fell English';
   color: #494949;
   text-decoration: none;
+  background: url('bg-image2.png');
+  /*-webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: blur(5px);*/
 }
 
 /*.overlay {
