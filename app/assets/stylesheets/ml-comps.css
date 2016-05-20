@@ -1,0 +1,60 @@
+@charset "utf-8";
+	.st0
+{
+	background : #494949;
+	background : rgba(73, 73, 73, 1);
+}
+.NormalCharacterStyle3
+{
+	font-family : IM FELL English;
+	font-style : italic;
+	font-size : 36px;
+	line-height : 60px;
+	color : #494949;
+	color : rgb(73, 73, 73);
+}
+.bg-color-overlay
+{
+	background : #FFFFDC;
+	background : rgba(255, 255, 220, 1);
+	opacity : 0.75;
+	filter: alpha(opacity=75) progid:DXImageTransform.Microsoft.Alpha(opacity=75) ;
+}
+.NormalCharacterStyle
+{
+	font-family : IM FELL English;
+	font-size : 24px;
+	line-height : 60px;
+	color : #FFFFDC;
+	color : rgb(255, 255, 220);
+}
+.NormalCharacterStyle4
+{
+	font-family : IM FELL English;
+	font-size : 48px;
+	line-height : 60px;
+	color : #494949;
+	color : rgb(73, 73, 73);
+}
+.NormalCharacterStyle2
+{
+	font-family : IM FELL English;
+	font-size : 120px;
+	line-height : 60px;
+	color : #494949;
+	color : rgb(73, 73, 73);
+}
+.NormalCharacterStyle1
+{
+	font-family : IM FELL English;
+	font-style : italic;
+	font-size : 60px;
+	line-height : 60px;
+	color : #494949;
+	color : rgb(73, 73, 73);
+}
+.bg-image
+{
+	background-image : url(bg-image.png);
+	background-repeat : no-repeat;
+}
